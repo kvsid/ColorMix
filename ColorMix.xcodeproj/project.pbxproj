@@ -49,6 +49,7 @@
 		0725EE832421328B00F703A6 /* ColorMixUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ColorMixUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0725EE872421328B00F703A6 /* ColorMixUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorMixUITests.swift; sourceTree = "<group>"; };
 		0725EE892421328B00F703A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		07D4E364247EB63F00C62815 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +80,7 @@
 		0725EE592421328700F703A6 = {
 			isa = PBXGroup;
 			children = (
+				07D4E364247EB63F00C62815 /* README.md */,
 				0725EE642421328700F703A6 /* ColorMix */,
 				0725EE7B2421328B00F703A6 /* ColorMixTests */,
 				0725EE862421328B00F703A6 /* ColorMixUITests */,
